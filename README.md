@@ -1,4 +1,3 @@
-"feat: Add profile README.md"
 ## 🎓 Sobre Mim
 
 **Nome:** Vítor Peyrek Cardoso  
