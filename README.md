@@ -1,5 +1,3 @@
-#README.md
-
 # 👋 Olá, eu sou Vítor Peyrek Cardoso
 
 <div align="center">
