@@ -49,7 +49,7 @@ Fique à vontade para explorar e acompanhar minha evolução!
 
 ## 📫 Vamos Conversar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfi](https://www.linkedin.com/in/vitor-peyrek-a6b0341a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-peyrek-a6b0341a0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorpeyrek1409@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
