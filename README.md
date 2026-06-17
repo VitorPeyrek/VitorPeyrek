@@ -1,7 +1,7 @@
 <h1 align="center">Vítor Peyrek Cardoso</h1>
 
 <p align="center">
-  Estudante de Engenharia da Computação · Desenvolvedor · Corretor de Seguros
+  Estudante de Engenharia da Computação · Desenvolvedor
 </p>
 
 <p align="center">
@@ -14,7 +14,11 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia da Computação na Universidade Veiga de Almeida (6º semestre) e atuo profissionalmente como corretor e consultor de seguros na VOOG Corretora de Seguros. Tenho interesse em unir minha base técnica com problemas reais de mercado — construindo ferramentas, automatizando processos e desenvolvendo soluções práticas.
+Sou Vitor Peyrek, estudante de Engenharia da Computação apaixonado por tecnologia, programação e desenvolvimento de software.
+
+Atualmente busco aprimorar meus conhecimentos em desenvolvimento back-end, estruturas de dados, algoritmos e banco de dados, sempre aplicando a teoria em projetos práticos. Tenho experiência com C, Python, HTML, CSS e JavaScript, além de desenvolver projetos acadêmicos e pessoais voltados para a resolução de problemas e aprendizado contínuo.
+
+Meu objetivo é crescer profissionalmente na área de tecnologia, contribuindo com soluções eficientes e adquirindo cada vez mais experiência em desenvolvimento de sistemas.
 
 ---
 
